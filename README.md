@@ -1,4 +1,4 @@
-#🧙 Text RPG Game – Feature Expansion Project
+# 🧙 Text RPG Game – Feature Expansion Project
 
 Welcome to our Escape Room RPG game repository! Developed as part of our coursework, this project began with a simple text-based role-playing game template. Working collaboratively, our team extended the original code by implementing new features, enhancing gameplay mechanics, and transforming it into a fully interactive experience. The final result includes rich game logic, multimedia integration, and engaging visual and audio effects that bring the escape room adventure to life.
 
